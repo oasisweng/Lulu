@@ -301,6 +301,7 @@
 	aSwitch.hidden = YES;
 	[aSwitch setOn:NO];
 	password.text = @"";
+	NSLog(@"this is a test to github!");
 }
 
 -(void)debug:(id)object orFunctionOrNil:(NSString *)function withItsStringOrNil:(NSString *)itsString{
