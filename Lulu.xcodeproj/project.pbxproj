@@ -228,7 +228,6 @@
 		738D954516129CFF0055A2AD /* TLPullUN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TLPullUN.png; sourceTree = "<group>"; };
 		738D954616129CFF0055A2AD /* TLPullPromptEN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TLPullPromptEN.png; sourceTree = "<group>"; };
 		738D954716129CFF0055A2AD /* TLReleasePromptEN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TLReleasePromptEN.png; sourceTree = "<group>"; };
-		738D954B1612D4EE0055A2AD /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "zh-Hans"; path = "zh-Hans.lproj/iPhoneBoard.storyboard"; sourceTree = "<group>"; };
 		738D954C1612D6F90055A2AD /* TLPullPromptCN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TLPullPromptCN.png; sourceTree = "<group>"; };
 		738D954D1612D6F90055A2AD /* TLReleasePromptCN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TLReleasePromptCN.png; sourceTree = "<group>"; };
 		738D95501612D86C0055A2AD /* TLDeleteCN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TLDeleteCN.png; sourceTree = "<group>"; };
@@ -912,7 +911,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				7358EB9415B7B21D0079DCFB /* en */,
-				738D954B1612D4EE0055A2AD /* zh-Hans */,
 			);
 			name = iPhoneBoard.storyboard;
 			path = ..;
